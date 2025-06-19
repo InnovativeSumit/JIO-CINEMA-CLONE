@@ -20,11 +20,9 @@ A visually appealing **JioCinema Clone** built using **HTML, CSS, and JavaScript
 <p align="center">  <img src="https://github.com/user-attachments/assets/4c946748-8896-46e8-8703-af18054075d8" alt="Screenshot 6" width="920" height="520" /> </p>
 <p align="center">  <img src="https://github.com/user-attachments/assets/5ded59ac-1a88-442e-8981-62c94726b864" alt="Screenshot 7" width="920" height="320" /> </p>
 
----
-
 ## 🚀 Live Demo
 
-🔗 Check out the live version: [JIOCINEMA-CLONE](https://innovativesumit.github.io/JIOCINEMA-CLONE)
+🔗 Check out the live version: [JIOCINEMA-CLONE](https://innovativesumit.github.io/JIO-CINEMA-CLONE/)
 
 
 ## 💡 What You’ll Learn
